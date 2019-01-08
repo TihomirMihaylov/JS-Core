@@ -1,0 +1,6 @@
+$(()=>{
+    showHomeView();
+    attachLinkEvents();
+    attachButtonEvents(); 
+    attachBoxesEvents();
+})
